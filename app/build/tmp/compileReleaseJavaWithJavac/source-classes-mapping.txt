@@ -1,0 +1,8 @@
+com/example/dolar_real/BuildConfig.java
+ com.example.dolar_real.BuildConfig
+com/example/dolar_real/MainActivity.java
+ com.example.dolar_real.MainActivity
+ com.example.dolar_real.MainActivity$1
+ com.example.dolar_real.MainActivity$2
+ com.example.dolar_real.MainActivity$Result
+ com.example.dolar_real.MainActivity$Result$USDBRL

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Dolar-Real.iml" filepath="$PROJECT_DIR$/.idea/modules/Dolar-Real.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Dolar-Real.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Dolar-Real.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gson/Dolar-Real.gson.iml" filepath="$PROJECT_DIR$/.idea/modules/gson/Dolar-Real.gson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/volley/Dolar-Real.volley.iml" filepath="$PROJECT_DIR$/.idea/modules/volley/Dolar-Real.volley.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+com/example/dolar_real/BuildConfig.java
+ com.example.dolar_real.BuildConfig
+com/example/dolar_real/CotacaoDTO.java
+ com.example.dolar_real.CotacaoDTO
+ com.example.dolar_real.CotacaoDTO$Dolar
+ com.example.dolar_real.CotacaoDTO$Dolar$USDBRL
+ com.example.dolar_real.CotacaoDTO$Guarani
+ com.example.dolar_real.CotacaoDTO$Guarani$PYGBRL
+com/example/dolar_real/MainActivity.java
+ com.example.dolar_real.MainActivity
+ com.example.dolar_real.MainActivity$1
+ com.example.dolar_real.MainActivity$2
+ com.example.dolar_real.MainActivity$Result
+ com.example.dolar_real.MainActivity$Result$Dolar
+ com.example.dolar_real.MainActivity$Result$Dolar$USDBRL
+ com.example.dolar_real.MainActivity$Result$Guarani
+ com.example.dolar_real.MainActivity$Result$Guarani$PYGBRL

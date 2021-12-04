@@ -1,0 +1,63 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.dolar_real"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Projetos\Android\DolarReal\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Projetos\Android\DolarReal\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Projetos\Android\DolarReal\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Projetos\Android\DolarReal\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->C:\Projetos\Android\DolarReal\app\src\main\AndroidManifest.xml:6:5-26:19
+14        android:allowBackup="true"
+14-->C:\Projetos\Android\DolarReal\app\src\main\AndroidManifest.xml:7:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.5.0] C:\Users\Thomaz\.gradle\caches\transforms-3\b628205ead6bf789d6b5bb407df84afc\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\Projetos\Android\DolarReal\app\src\main\AndroidManifest.xml:8:9-43
+18        android:label="@string/app_name"
+18-->C:\Projetos\Android\DolarReal\app\src\main\AndroidManifest.xml:9:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->C:\Projetos\Android\DolarReal\app\src\main\AndroidManifest.xml:10:9-54
+20        android:supportsRtl="true"
+20-->C:\Projetos\Android\DolarReal\app\src\main\AndroidManifest.xml:11:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.DolarReal" >
+22-->C:\Projetos\Android\DolarReal\app\src\main\AndroidManifest.xml:12:9-47
+23        <activity
+23-->C:\Projetos\Android\DolarReal\app\src\main\AndroidManifest.xml:13:9-22:20
+24            android:name="com.example.dolar_real.MainActivity"
+24-->C:\Projetos\Android\DolarReal\app\src\main\AndroidManifest.xml:15:13-41
+25            android:exported="true"
+25-->C:\Projetos\Android\DolarReal\app\src\main\AndroidManifest.xml:16:13-36
+26            android:windowSoftInputMode="adjustResize" >
+26-->C:\Projetos\Android\DolarReal\app\src\main\AndroidManifest.xml:14:13-55
+27            <intent-filter>
+27-->C:\Projetos\Android\DolarReal\app\src\main\AndroidManifest.xml:17:13-21:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->C:\Projetos\Android\DolarReal\app\src\main\AndroidManifest.xml:18:17-69
+28-->C:\Projetos\Android\DolarReal\app\src\main\AndroidManifest.xml:18:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->C:\Projetos\Android\DolarReal\app\src\main\AndroidManifest.xml:20:17-77
+30-->C:\Projetos\Android\DolarReal\app\src\main\AndroidManifest.xml:20:27-74
+31            </intent-filter>
+32        </activity>
+33
+34        <meta-data
+34-->C:\Projetos\Android\DolarReal\app\src\main\AndroidManifest.xml:23:9-25:57
+35            android:name="preloaded_fonts"
+35-->C:\Projetos\Android\DolarReal\app\src\main\AndroidManifest.xml:24:13-43
+36            android:resource="@array/preloaded_fonts" />
+36-->C:\Projetos\Android\DolarReal\app\src\main\AndroidManifest.xml:25:13-54
+37    </application>
+38
+39</manifest>
